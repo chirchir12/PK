@@ -1,5 +1,10 @@
 
-<?php include('./includes/header.php')?>
+<?php
+
+$title="Home"; // title of the page
+include('./includes/header.php');
+
+?>
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
